@@ -13,4 +13,6 @@ EBM.StartListening<THEME>(EventBusEnum.EventName.THEME_CHANGE, OnThemeChanged);
 EBM.StopListening<THEME>(EventBusEnum.EventName.THEME_CHANGE, OnThemeChanged);
 ```
 
+[Detailed description in Medium](https://habibur-rahman-ovie.medium.com/generic-event-bus-in-unity-7e8a35dffcce)
+
 [If you want you can support me here](patreon.com/CaptainNemo288)
